@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\bin\Debug\netcoreapp2.0\KullaniciWepApi.deps.json
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\bin\Debug\netcoreapp2.0\KullaniciWepApi.runtimeconfig.json
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\bin\Debug\netcoreapp2.0\KullaniciWepApi.runtimeconfig.dev.json
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\bin\Debug\netcoreapp2.0\KullaniciWepApi.dll
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\bin\Debug\netcoreapp2.0\KullaniciWepApi.pdb
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.AssemblyInfo.cs
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.dll
+C:\Users\asus\Desktop\KullaniciWepApi\KullaniciWepApi\obj\Debug\netcoreapp2.0\KullaniciWepApi.pdb
